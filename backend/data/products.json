@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Introducing Amazon Fire TV 55 4-Series 4K UHD smart TV",
+    "price": "999.00",
+    "description": "Brilliant 4K entertainment - Bring movies and shows to life with support for vivid 4K Ultra HD, HDR 10, HLG, and Dolby Digital Plus. Scenes that leap off the screen - 4K Ultra HD, HDR 10, and HLG deliver a clearer and more vibrant picture with brighter colors compared to 1080p Full HD Fire TV Alexa Voice Remote - Press and ask to find favorite apps, movies, and shows, plus check the weather, sports scores, and more.",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/tv1",
+        "url": "https://5.imimg.com/data5/FM/HI/DG/SELLER-65327020/propre-led-tv-500x500.jpg"
+      },
+      {
+        "public_id": "products/tv2",
+        "url": "https://radiotvcentre.pk/wp-content/uploads/2021/06/LCD-tv-apna-sapna-4-600x600-1.png"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Samsung Electronics Galaxy Book Pro Windows 11 Intel Evo Platform Laptop Computer 13.3 AMOLED Screen 11th Gen Intel Core i5 Processor 8GB Memory 256GB SSD Long-Lasting Battery, Mystic Silver",
+    "price": "999.00",
+    "description": "EASY ON THE EYES: Everything looks brilliant with the first 13.3/15.6 AMOLED screen in a Galaxy Book; Enjoy vibrant viewing while you work or school inside or in direct sunlight, and it lessens eye strain by reducing harmful blue light LIGHTEST GALAXY BOOK LAPTOP: Sleek, ultrathin and available in a stylish, dual color design, Galaxy Book Pro is the lightest laptop and won’t weigh you down LONG-LASTING BATTERY: Power through up to 20 hours on a full battery then recharge quick with our super small, light charger",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/laptop1",
+        "url": "https://m.media-amazon.com/images/I/81I64Ptcd2L._AC_SL1500_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "VTech Sit-to-Stand Learning Walker (Frustration Free Packaging) , Orange",
+    "price": "9.00",
+    "description": "Interactive learning baby Walker has a removable play panel; frustration free packaging means it comes in a plain brown box Early learning center has 5 piano keys that play music and encourage creativity; wheels work on carpeted and hard floors Features 2 colorful spinning rollers, 3 shape sorters, and 3 light-up buttons that develop motor skills Pretend telephone handset and mechanical elements enhance role-play fun; 2 AA batteries are included",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/toy1",
+        "url": "https://i.ytimg.com/vi/_dSL7zoUs6o/maxresdefault.jpg"
+      },
+      {
+        "public_id": "products/toy2",
+        "url": "https://images.agoramedia.com/wte3.0/gcms/Fisher-Price-Deluxe-Kick-and-Play-Piano-Gym-and-Maracas.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "shahmeer",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Black",
+    "price": "99.89",
+    "description": "The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound, which can be found in the most famous venues all around the world.With Wireless Bluetooth 5.0 Streaming, you can stream wirelessly from your device and even switch between two devices so that you don't miss a call.For long-lasting fun, listen wirelessly for up to 40 hours and recharge the battery in as little as 2 hours with the convenient Type-C USB cable. A quick 5-minute recharge gives you 2 additional hours of music.",
+    "rating": 3.5,
+    "images": [
+      {
+        "public_id": "products/headphone1",
+        "url": "https://m.media-amazon.com/images/I/61Mp19GKjPL._AC_SY355_.jpg"
+      },
+      {
+        "public_id": "products/headphone2",
+        "url": "https://m.media-amazon.com/images/I/61nYTEBFbsL._AC_SY355_.jpg"
+      },
+      {
+        "public_id": "products/headphone3",
+        "url": "https://m.media-amazon.com/images/I/51bhOTsK73L._AC_SX425_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 100,
+    "numOfReviews": 35,
+    "reviews": []
+  },
+  {
+    "name": "Blue Yeti USB Mic for Recording and Streaming on PC and Mac, Blue VO!CE Effects, 4 Pickup Patterns, Headphone Output and Volume Control, Mic Gain Control, Adjustable Stand, Plug and Play – Blackout",
+    "price": "69",
+    "description": "Custom Three-Capsule Array: Produces clear, powerful, broadcast-quality sound for YouTube, game streaming, podcasting, Zoom calls and music.Blue VO!CE Software: Craft the perfect broadcast vocal sound and entertain your audience with enhanced effects, advanced modulation and HD audio samples. Advanced Blue VO!CE is compatible with Yeti, Yeti Nano and Yeti X. To access Blue VO!CE, please download Logitech’s free G HUB software",
+    "rating": 5,
+    "images": [
+      {
+        "public_id": "products/mic1",
+        "url": "https://m.media-amazon.com/images/I/61LmU6eBjyL._AC_SX569_.jpg"
+      },
+      {
+        "public_id": "products/mic2",
+        "url": "https://m.media-amazon.com/images/I/61mugM4ffeL._AC_SX425_.jpg"
+      },
+      {
+        "public_id": "products/mic3",
+        "url": "https://m.media-amazon.com/images/I/61YDIagr46L._AC_SX425_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 10,
+    "numOfReviews": 37,
+    "reviews": []
+  },
+  {
+    "name": "Mouse",
+    "price": "80",
+    "description": "This is Mouse discription",
+    "rating": 3.7,
+    "images": [
+      {
+        "public_id": "products/headphone1",
+        "url": "https://www.sony.com/image/bcef63d32b0270480b5371fb35cd3029?fmt=pjpeg&wid=660&bgcolor=F1F5F9&bgc=F1F5F9"
+      },
+      {
+        "public_id": "products/headphone2",
+        "url": "https://www.sony.co.in/image/eb0062b3db03748efc7f5ca3fd82ccc5?fmt=pjpeg&wid=660&bgcolor=F1F5F9&bgc=F1F5F9"
+      },
+      {
+        "public_id": "products/headphone3",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQPceaRIN80CnxzXm8uy8clPP_H94N9sMmTp2THU0D33ChPlGCwgRiKY2zyraIdZoubw&usqp=CAU"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 90,
+    "numOfReviews": 45,
+    "reviews": []
+  },
+  {
+    "name": "DVD",
+    "price": "65",
+    "description": "This is DVD discription",
+    "rating": 3,
+    "images": [
+      {
+        "public_id": "products/headphone1",
+        "url": "https://www.sony.com/image/bcef63d32b0270480b5371fb35cd3029?fmt=pjpeg&wid=660&bgcolor=F1F5F9&bgc=F1F5F9"
+      },
+      {
+        "public_id": "products/headphone2",
+        "url": "https://www.sony.co.in/image/eb0062b3db03748efc7f5ca3fd82ccc5?fmt=pjpeg&wid=660&bgcolor=F1F5F9&bgc=F1F5F9"
+      },
+      {
+        "public_id": "products/headphone3",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQPceaRIN80CnxzXm8uy8clPP_H94N9sMmTp2THU0D33ChPlGCwgRiKY2zyraIdZoubw&usqp=CAU"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 100,
+    "numOfReviews": 5,
+    "reviews": []
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 128GB, Pacific Blue - Unlocked (Renewed Premium)",
+    "price": "650",
+    "description": "This Renewed Premium product is shipped and sold by Amazon and has been certified by Amazon to work and look like new. With at least 90% battery life, it comes in deluxe, Amazon-branded packaging and is backed by a one-year warranty and technical support.",
+    "rating": 3,
+    "images": [
+      {
+        "public_id": "products/phone1",
+        "url": "https://www.apple.com/v/iphone-13-pro/a/images/overview/design/finishes_1_sierra_blue__2bovafkl4yaa_large.jpg"
+      },
+      {
+        "public_id": "products/phone2",
+        "url": "https://www.notebookcheck.net/uploads/tx_nbc2/4_to_3_Teaser_Apple_iPhone_13_Pro.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 100,
+    "numOfReviews": 5,
+    "reviews": []
+  },
+  {
+    "name": "Amazon Basics 40W Equivalent, Soft White, Non-Dimmable, 10,000 Hour Lifetime, A19 LED Light Bulb | 16-Pack",
+    "price": "650",
+    "description": "With a life of 10,000 hours, the bulb will last over 9 years (based on 3 hours of use each day) Provides 450 lumens of light immediately, with no waiting time to warm up to full brightness With a correlated color temperature of 2700 Kelvin, the bulb provides a soft white light, creating a comfortable atmosphere for any room This LED light bulb uses only 6 watts of energy, saving up to $37.40 over the life of the bulb vs. its incandescent equivalent (based on 3 hours/day, 11 cents/kWh, may vary depending on rates and use)",
+    "rating": 3,
+    "images": [
+      {
+        "public_id": "products/bulb1",
+        "url": "https://cdn.metro-online.pk/dashboard/prod-pic/LHE-01262/12629591-0-M.jpg?"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "shahmeer",
+    "stock": 100,
+    "numOfReviews": 5,
+    "reviews": []
+  }
+]
